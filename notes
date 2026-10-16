@@ -1,0 +1,18 @@
+AI tool provider:
+- One platform contains all the AI tools
+- Manage AI API keys
+- Chat with these Ais
+- Chat Histories
+Tech:
+- React + TS
+- MUI // بدي ui موجودة مشان ما أكتب شي من الصف  
+- Zustand + React Query + Axios
+- RichText //
+ بدي أستخدم textbox يكون flexible شو ما بعطيه بياخد إن كان txt ولا md file
+- Abstract API keys provider //
+كلود مثلا بده sdk لأحكي معه 
+مثلا chatgpt مافي داعي 
+بدنا نعمل Abstract ليقدر يحكي مع كل هدول 
+
+Design:
+- Follow AI chatbot Design standard
